@@ -20,7 +20,7 @@ A simple tool for observing the internal dynamics of neural networks.
 
 ```bash
 // 下载源代码
-git clone https://github.com/DLCV-BUAA/Taiyi.git
+git clone https://github.com/Wec126/Taiyi.git
 // 进入下载目录
 cd 到下载目录，与setup.py文件同级
 // 在安装前可以激活你想要安装的环境后运行安装代码
